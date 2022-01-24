@@ -1,0 +1,42 @@
+[
+    {
+        "id": 3,
+        "uid": "aoUXxUVkLlgP1jswYM3JTW0f02H3",
+        "display_name": "Kevin Rebort",
+        "email": "kevinrebort@gmail.com",
+        "password": "",
+        "phone_number": "",
+        "photo": "",
+        "email_verified": true,
+        "is_anonymous": false,
+        "is_active": true,
+        "provider": "google.com",
+        "language": "hindi",
+        "dark_theme": true,
+        "layout": "card",
+        "refresh_token": "",
+        "tenant_id": "",
+        "created_at": "2022-01-20T11:55:58.839138+00:00",
+        "last_login": "2022-01-20T11:55:58.839138+00:00"
+    },
+    {
+        "id": 4,
+        "uid": "6KqQ6w8PbARtwlwDuEuQepfCYeo2",
+        "display_name": "Guest User",
+        "email": "kevinrebort1@gmail.com",
+        "password": "",
+        "phone_number": "",
+        "photo": "",
+        "email_verified": false,
+        "is_anonymous": false,
+        "is_active": false,
+        "provider": "password",
+        "language": "english",
+        "dark_theme": true,
+        "layout": "",
+        "refresh_token": "",
+        "tenant_id": "",
+        "created_at": "2022-01-20T11:59:35.532151+00:00",
+        "last_login": "2022-01-20T11:59:35.532151+00:00"
+    }
+]
